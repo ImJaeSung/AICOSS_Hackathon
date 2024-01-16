@@ -1,6 +1,7 @@
 # AICOSS_Hackathon
 Repo. for 2023 AICOSS Hackathon Contest 
 
+### Codes
 ```
 .
 +-- assets (*sharing google drive link:  https://drive.google.com/drive/folders/16aJ75rEUaGVLOHA8gsH_1flfi_WDcBhk?usp=drive_link)
@@ -25,4 +26,6 @@ Repo. for 2023 AICOSS Hackathon Contest
 +-- module.py : for train, validation, inference and loss function
 +-- simulation.py : for reproducibility
 ```
-The authors acknowledge the Urban Big data and AI Institute of the University of Seoul supercomputing resources (http://ubai.uos.ac.kr) made available for conducting the research.
+
+### Disclosure of funding
+The author acknowledges the Urban Big data and AI Institute of the University of Seoul supercomputing resources (http://ubai.uos.ac.kr) made available for conducting the contest.
