@@ -25,3 +25,4 @@ Repo. for 2023 AICOSS Hackathon Contest
 +-- module.py : for train, validation, inference and loss function
 +-- simulation.py : for reproducibility
 ```
+The authors acknowledge the Urban Big data and AI Institute of the University of Seoul supercomputing resources (http://ubai.uos.ac.kr) made available for conducting the research.
